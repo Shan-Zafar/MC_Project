@@ -68,16 +68,16 @@ public class Dashboard extends AppCompatActivity
 
 
 
-        //---------------------------------------Set up toolbar/actionbar---------------------------//
+
 
         setUpToolbar();
 
-        //-----------------------------------------Set up Floating button --------------------------//
+
         setUpFloatingButton(
 
         );
 
-        //--------------------------------------Intilize Firebase-----------------------------------//
+
         firebaseDatabase = FirebaseDatabase.getInstance();
 
 
@@ -91,19 +91,19 @@ public class Dashboard extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        //-------------------------------------------View pager to show hot items-------------------//
+
         setUpViewPager();
 
 
-        //-------------------------------------------Get data for Hot items -------------------------//
+
         getDataForHotItems();
 
 
 
-        //--------------------------------------------Set up recyclerview---------------------------//
+
         setUpRecyclerView();
 
-        //------------------------------------------- Get data from server to shoe in recyclerview--//
+
         getDataForRecyclerView();
 
 
@@ -224,12 +224,12 @@ public class Dashboard extends AppCompatActivity
 
     private void setUpViewPager() {
 
-        //-------------------------------------------Initlize view pager ---------------------------//
+
         viewPager = findViewById(R.id.viewPager);
         customViewPagerAdapter = new CustomViewPagerAdapter(this);
         viewPager.setAdapter(customViewPagerAdapter);
 
-        // ---------------------------------------------------------------------------
+
 
 
 
