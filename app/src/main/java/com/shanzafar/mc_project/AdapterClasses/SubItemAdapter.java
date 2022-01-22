@@ -118,16 +118,6 @@ public class SubItemAdapter extends RecyclerView.Adapter<SubItemAdapter.MyViewHo
 
 
 
-
-
-
-
-
-
-
-
-
-
             //------------------------------------Dialogue content Click listeners------------------//
             cancel.setOnClickListener(new View.OnClickListener() {
                 @Override
