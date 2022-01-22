@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/activity_shoppingcart.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/app_bar_dashboard.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/content_dashboard.xml" value="0.20102564102564102" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/nav_header_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/layout/shopping_cart_recyclerview_layout.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/menu/activity_dashboard_drawer.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/MY PC/AndroidStudioProjects/MC_Project/app/src/main/res/menu/dashboard.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Talha/AndroidStudioProjects/MC_Project/app/src/main/res/layout/activity_item.xml" value="0.1" />
