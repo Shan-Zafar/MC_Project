@@ -11,9 +11,9 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.jawad.departmentalstore.AdapterClasses.DashboardRecyclerviewAdapter;
-import com.jawad.departmentalstore.AdapterClasses.SubItemAdapter;
-import com.jawad.departmentalstore.ModelClasses.SubItem;
+import com.shanzafar.mc_project.AdapterClasses.DashboardRecyclerviewAdapter;
+import com.shanzafar.mc_project.AdapterClasses.SubItemAdapter;
+import com.shanzafar.mc_project.ModelClasses.SubItem;
 
 import java.util.ArrayList;
 

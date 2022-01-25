@@ -23,9 +23,9 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.jawad.departmentalstore.AdapterClasses.CustomViewPagerAdapter;
-import com.jawad.departmentalstore.AdapterClasses.DashboardRecyclerviewAdapter;
-import com.jawad.departmentalstore.ModelClasses.MainItemsModel;
+import com.shanzafar.mc_project.AdapterClasses.CustomViewPagerAdapter;
+import com.shanzafar.mc_project.AdapterClasses.DashboardRecyclerviewAdapter;
+import com.shanzafar.mc_project.ModelClasses.MainItemsModel;
 
 import java.util.ArrayList;
 import java.util.Timer;

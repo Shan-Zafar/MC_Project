@@ -14,8 +14,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
-import com.jawad.departmentalstore.AdapterClasses.ShoppingCartAdapter;
-import com.jawad.departmentalstore.ModelClasses.ItemChooseForBought;
+import com.shanzafar.mc_project.AdapterClasses.ShoppingCartAdapter;
+import com.shanzafar.mc_project.ModelClasses.ItemChooseForBought;
 
 import java.util.ArrayList;
 

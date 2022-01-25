@@ -2,7 +2,7 @@ package com.shanzafar.mc_project;
 
 import android.util.Log;
 
-import com.jawad.departmentalstore.ModelClasses.ItemChooseForBought;
+import com.shanzafar.mc_project.ModelClasses.ItemChooseForBought;
 
 import java.util.ArrayList;
 
